@@ -49,6 +49,9 @@
         $(document).ready(function() {
             $('#descricao').summernote();
         });
+        $(document).ready(function() {
+            $('#conteudo').summernote();
+        });
     </script>
     <script src="../assets/js/script.js"></script>
 </body>
